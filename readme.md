@@ -28,9 +28,9 @@ Atlas OS
 - Font Finder
 ## Used By
 
-This project is used by :
+This note is used by :
 
-- everyone
+- Me & Everyone
 
 
 ## Feedback
