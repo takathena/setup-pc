@@ -17,7 +17,7 @@ Atlas OS
 Desktop Environtment
 
 ```bash
-  [https://atlasos.net/](https://github.com/linuxmobile/hyprland-dots/tree/Sakura)
+  https://github.com/linuxmobile/hyprland-dots/tree/Sakura
 ```
 
 ## Apps
