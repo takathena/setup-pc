@@ -4,7 +4,7 @@
 - [@takathena](https://www.github.com/takathena)
 
 
-## Appendix
+## OS (Operating System)
 
 
 Here we use a Windows tweak & Arch Linux, link below 
