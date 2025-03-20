@@ -31,6 +31,11 @@ Desktop Environtment
 - Bonjour
 - Color Picker
 - Font Finder
+
+## Shortcut
+
+- [Shortcut](https://www.github.com/takathena/shortcut)
+
 ## Used By
 
 This note is used by :
