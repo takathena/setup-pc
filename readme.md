@@ -32,9 +32,9 @@ Desktop Environtment
 - Color Picker
 - Font Finder
 
-## Shortcut
+## Shortcut Website
 
-- [Shortcut](https://www.github.com/takathena/shortcut)
+- [Shortcut in here](https://www.github.com/takathena/shortcut)
 
 ## Used By
 
